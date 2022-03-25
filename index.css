@@ -1,17 +1,17 @@
 h1{
-  color: #fff;
-  font-size: 80px;
-text-align: center;
--webkit-animation: glow 1s ease-in-out infinite alternate;
--moz-animation: glow 1s ease-in-out infinite alternate;
+  color: pink;
+  font-size: 40px;
+text-align: left;
+webkit-animation: glow 1s ease-in-out infinite alternate;
+moz-animation: glow 1s ease-in-out infinite alternate;
 animation: glow 1s ease-in-out infinite alternate;
 }
 
 h2{
   font-size: 40px;
-color: #fff;
+color: pink;
 text-align: center;
--webkit-animation: glow 1s ease-in-out infinite alternate;
--moz-animation: glow 1s ease-in-out infinite alternate;
+webkit-animation: glow 1s ease-in-out infinite alternate;
+moz-animation: glow 1s ease-in-out infinite alternate;
 animation: glow 1s ease-in-out infinite alternate;
 }
